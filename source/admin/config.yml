@@ -1,9 +1,4 @@
 backend:
-  name: git-gateway
-  accept roles:
-    - admin
-
-backend:
   name: github
   repo: kujeru13/middleman-starter-netlify-cms
 
